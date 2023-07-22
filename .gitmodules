@@ -1,0 +1,7 @@
+[submodule "Vendor/wolfssl"]
+	path = Vendor/wolfssl
+	url = ../../gojimmypi/wolfssl.git
+	branch = Espressif_HW_Math
+[submodule "EspressifComponents/esp_littlefs"]
+	path = EspressifComponents/esp_littlefs
+	url = ../../joltwallet/esp_littlefs.git

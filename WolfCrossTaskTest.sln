@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "WolfCrossTaskTest", "WolfCrossTaskTest\WolfCrossTaskTest.vgdbproj", "{CB196840-7587-4F18-8C51-C8C764D87085}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EspressifComponents", "EspressifComponents\EspressifComponents.vcxitems", "{020F42E7-C09D-4FB3-A9CB-8C9E0001376B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|VisualGDB = Debug|VisualGDB
