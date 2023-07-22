@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "WolfCrossTaskTest", "WolfCrossTaskTest.vgdbproj", "{CB196840-7587-4F18-8C51-C8C764D87085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB196840-7587-4F18-8C51-C8C764D87085}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{CB196840-7587-4F18-8C51-C8C764D87085}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{CB196840-7587-4F18-8C51-C8C764D87085}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{CB196840-7587-4F18-8C51-C8C764D87085}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {970149CF-3DD2-4B28-A35E-441B78A2AE20}
+	EndGlobalSection
+EndGlobal
